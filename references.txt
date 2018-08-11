@@ -1,0 +1,8 @@
+https://www.instructables.com/id/Remote-Temperature-Monitoring-Using-MQTT-and-ESP82/
+https://www.hacktronics.com/Tutorials/arduino-1-wire-address-finder.html
+https://www.hacktronics.com/Tutorials/arduino-1-wire-tutorial.html
+
+MQTT subscribe
+http://www.esp8266.com/viewtopic.php?f=29&t=2745#
+
+http://sparks.gogo.co.nz/crimping/index.html
